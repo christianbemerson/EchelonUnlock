@@ -1,0 +1,16 @@
+# Local captures and logs
+*.pcap
+*.pcapng
+*.log
+captures/
+logs/
+
+# Secrets / local configuration
+.env
+.env.*
+secrets/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
